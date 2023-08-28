@@ -44,6 +44,7 @@ hr {
     .lista-rodape__link {
         text-decoration: none;
         margin-left: 0.6em;
+        color: var(--cinza-item)
     }
 }
 
